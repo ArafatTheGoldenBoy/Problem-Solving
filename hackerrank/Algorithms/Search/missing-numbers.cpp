@@ -13,6 +13,6 @@ vector<int> missingNumbers(vector<int> arr, vector<int> brr)
             num.push_back(brr[i]);
         }
     }
-    num.erase(unique(num.begin(), num.end()), num.end());
+    num.erase(unique(num.begin(), num.end()), num.end()); // removing duplicate numbers in array
     return num;
 }
