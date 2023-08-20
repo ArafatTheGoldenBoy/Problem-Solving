@@ -1,2 +1,2 @@
 # Problem-Solving
- competitive program to solve problem with computer programming :)
+Competitive programming increases understanding of computer programs and helps visualize implementation.
